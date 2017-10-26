@@ -1,0 +1,6 @@
+> Page Rank includes below file :
+      PageRank_3597.java
+
+> commands for Page Rank Algo:
+  1. javac PageRank_3597.java
+  2. java PageRank_3597 iteration initialvalue filename
